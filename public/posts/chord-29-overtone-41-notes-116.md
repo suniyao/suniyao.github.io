@@ -19,7 +19,7 @@ music acts with the memorial function for me, marking timesets that are very imp
 
 sometimes i feel like i am stuck in the past just as my music taste — i do constantly fill my playlists with more songs, but i get bored easily and just scroll long down to listen to songs i liked 2-3 years ago. but there’s definitely something changing. 
 
-i left school and Shanghai early on the last day of September to go back to Huzhou to see old friends in the high school that i _should be_ studying in[^5]. it turned out to be a failure of estimation for the traffic jam severeness right before the long national holiday and took me about 5 hours (which should be 3 hours normally) from my school to home, while my friends all left school even 1 hour before. but i still had a phone call with one close friend, and we talked about how life has been going for both of us. she shared with me that she’s aiming for Peking and Tsinghua, and asked how applying for US colleges worked for me, also requested me to talk with her in English (imagine you just randomly started speaking English in a car filled with other 4 strangers, crazily embarrassing). she tried to be sounding _mean_ and _mad_ to the fact that i couldn’t come on time but she was trolling ~~or maybe she’s not~~. i also had a meal with my other closest friend for 12 years since primary school LOL. sharing about what has happened made us feel like we haven’t changed much. we used to be two overlapped circles and now both of us just shift outwards a bit, but still, we have intersections (like a typical A intersecting with B Venn diagram). 
+i left school and Shanghai early on the last day of September to go back to Huzhou to see old friends in the high school that i _should be_ studying in[^5]. it turned out to be a failure of estimation for the traffic jam severeness right before the long national holiday and took me about 5 hours (which should be 3 hours normally) from my school to home, while my friends all left school even 1 hour before. but i still had a phone call with one close friend, and we talked about how life has been going for both of us. she shared with me that she’s aiming for Peking and Tsinghua, and asked how applying for US colleges worked for me, also requested me to talk with her in English (imagine you just randomly started speaking English in a car filled with other 4 strangers, crazily embarrassing). she tried to be sounding _mean_ and _mad_ to the fact that i couldn’t come on time but she was trolling ~~or maybe she’s not~~. i also had a meal with my other closest friend for 12 years since primary school LOL. sharing about what has happened made us feel like we haven’t changed much. we used to be two overlapped circles and now both of us just shift outwards a bit, but still, we have intersections (like a typical $A \cap B$ Venn diagram). 
 
 but i cannot tell whether missing the chance to see old friends should be accompanied by a sense of relief (still, i did try my best to be on time). i avoid having general connections with old friends. i miss them, and i do want to stay in touch, but my fear of “what if i won’t appreciate her updated version” weighs much more. what if we may have really changed based on completely different life traces, and our views and interests are just mutually exclusive? i build up perfect versions for people i know and they are static, and they are outdated, and as i avoid face-to-face interactions with them they are never going to get updated. 
 
@@ -35,7 +35,7 @@ this month has been really busy and stressful for me? hopefully, i kinda survive
 
 * got A for my extended essay and i am actually proud of myself because i might create real contribution (!!) in the subject that i am interested in instead of just doing junk research by paraphrasing existing papers and plagiarizing github code[^8]
 
-* got A in TOK: i was kinda depressed the weekend before TOK exam because i thought the composition of eg grade contained the exhibition poster (scored 6/10) instead of the exhibition commentary (8/10)[^9] and thought i need to have 8/10 for the monthly essay. did get 8/10 though which is pretty out of expectation!🫣 
+* got A in TOK: i was kinda depressed the weekend before TOK exam because i thought the composition of eg grade contained the exhibition poster (scored 6/10) instead of the exhibition commentary (8/10)[^9] and thought i need to have 8/10 for the monthly essay. did get 8/10 though which is pretty out of expectation! 🫣 
 
 
 
@@ -50,7 +50,7 @@ but anyway, the expected grade exam is, at least, over and i allowed myself a sh
 
 ![Image](https://substack-post-media.s3.amazonaws.com/public/images/d763ed58-93e1-49db-82af-8e1573b8ac0c_1178x662.webp "to the moon! with discount! i just downloaded but would probably play it after college app 💀 heard it has a very long storyline. have been fascinated by the ost for 3 years omg")
 
-[^1]: 11:30 am Sept 10, as a teacher’s day gift for my supervisor 
+[^1]: 11:30 am Sept 10, as a teacher’s day gift for my supervisor XD
 
 [^2]: not “start listening to” cuz my spotify player just never stopped
 

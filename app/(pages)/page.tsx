@@ -35,15 +35,14 @@ export default function Home() {
       <div className="flex flex-col lg:grid lg:grid-cols-2 gap-8 lg:gap-12">
         <div className="w-full min-w-0 text-[16px] sm:text-[18px] md:text-[20px]">
           <div>
-            <p>Hi! I'm Stephanie, currently a freshman at the University of California, Berkeley, interested in math, computer science, and physics. Thanks for stopping by!</p>
+            <p>Hi! I'm Stephanie, currently a sophomore at the University of California, Berkeley, interested in math, computer science, and physics. Thanks for stopping by!</p>
 
               <ul className="list-disc list-inside mt-4 space-y-1">
                 Besides academic interests, I also enjoy
                 <li>listening to music of diverse genre (<CustomLink href="https://forms.gle/kpRzsb7AGki6TLdJ6">give me music recs!)</CustomLink></li>
-                <li><CustomLink href={"/project"}>building</CustomLink> <CustomLink href="https://prime-hunt.vercel.app">small</CustomLink> interesting projects</li>
+                <li>contributing to the open-source community with <CustomLink href="https://github.com/ly05010419/MacNativeGames">useful</CustomLink> <CustomLink href="https://github.com/suniyao/Overleaf-LaTeX-Suite">tools</CustomLink></li>
                 <li>badminton</li>
                 <li><CustomLink href={"/update"}>updating</CustomLink> on recent life</li>
-                <li>checking if i have friends live close to me and ask if they have time to meetup</li>
                 <li>playing random songs on the piano with my <PopUp note="(never perfect 😔)">relative pitch</PopUp></li>
               </ul>
           </div>

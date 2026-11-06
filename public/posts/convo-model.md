@@ -36,7 +36,9 @@ i think this framework also maps onto friendship, though noisier.
 
 friendship forms through many kinds of conversations — some involves info transfer, some are pure emotional support. but rationally, there are so many people and so many choices, especially when one's socializing circle is not fixed yet (i.e. if one's in college, it is super easy to meet a bunch of people just by joining a club). i think the return of a friendship can be roughly considered as
 
-return = professional support (info transfer) + emotional support - social cost
+$$
+  \text{return} = \text{professional support} (\text{info transfer}) + \text{emotional support} - \text{social cost}
+$$
 
 which social cost is loosely correlating with ego (since it's harder to socialize with people with high ego, but most people don't have a high ego, so social cost are abt similar across people) — then the differentiating factor really comes down to what kind of support ur actually getting.
 
@@ -56,7 +58,7 @@ based on this framework, i also think it's completely reasonable for people who 
 
 i also think people should keep a higher bar, a common “rigor”, when reaching out to people to get information — please, at least get some of the information on your own, or stop asking questions that are so simple that you can simply search or ask any ai. don't ask me questions like “is tomato fried egg” legit as an english translation for 番茄炒蛋 or why my code is wrong as if im ur chatgpt and the error is simply just you didn't realize python takes input() as a string and u were assigning a thing to the 2nd character of a string — either stop completely vibing and at least know some basics, or just keep on vibing and ask ai this question because they are capable to solve this trivial question.
 
-there is a phrase “不耻下问” — don't be ashamed to ask those below you. i claim it should be flipped. people should instead just in general 耻问, feel some shame before asking, not out of pride, but out of respect for other's time. your question should remain valuable enough to justify taking someone's attention. especially when someone's more experienced than you.
+there is a phrase “不恥下問” — don't be ashamed to ask those below you. i claim it should be flipped. people should instead just in general 耻问, feel some shame before asking, not out of pride, but out of respect for other's time. your question should remain valuable enough to justify taking someone's attention. especially when someone's more experienced than you.
 
 ---
 
@@ -64,4 +66,4 @@ this is super controversial topic imo, but i think in general i'm not encouragin
 
 
 
-[^1]: which i think is expected to be less college-application centered comparing to other summer schools
+[^1]: which i think is expected to be less college-application centered comparing to other summer camps
