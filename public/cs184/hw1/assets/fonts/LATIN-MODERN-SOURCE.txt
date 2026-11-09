@@ -1,0 +1,1 @@
+Latin Modern fonts extracted from https://latex.vercel.app/style.min.css (LaTeX.css). Latin Modern is distributed under the GUST Font License: https://www.gust.org.pl/projects/e-foundry/licenses/GUST-FONT-LICENSE.txt
