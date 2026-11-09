@@ -1,0 +1,4 @@
+scene,width,height,samples_per_pixel,threads,brute_seconds,bvh_seconds,brute_tests_per_ray,bvh_tests_per_ray
+meshedit/cow,320,240,1,1,1.0505,0.0225,5856.000000,4.435417
+keenan/banana,320,240,1,1,0.3684,0.0310,2458.000000,8.459362
+meshedit/beetle,320,240,1,1,1.1646,0.0348,7558.000000,7.843190
